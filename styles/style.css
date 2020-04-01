@@ -8,6 +8,8 @@
 .poem-wrap {
   margin: 7vh 20vw 10vh 35vw;
   padding: 10px 10px;
+  z-index: 100;
+  position: absolute;
 }
 
 h1 {
