@@ -12,6 +12,11 @@
   position: absolute;
 }
 
+.about-wrap {
+  margin: 7vh 20vw 10vh 35vw;
+  padding: 10px 10px;
+}
+
 h1 {
   font-size: 25px;  
   color: rgb(0, 0, 0);
